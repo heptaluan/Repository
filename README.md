@@ -77,6 +77,10 @@
 
 页面多列滚动布局
 
+[fullpage](https://github.com/powy1993/fullpage)
+
+全屏滚动插件
+
 
 
 
