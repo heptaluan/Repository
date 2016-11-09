@@ -119,7 +119,7 @@ ES6中文版，包括一些常用代码片段
 
 [百度盘分享书籍（电子书）](http://pan.baidu.com/share/home?uk=1866459472#category/type=0)
 
-。
+[]
 
 ## 教程
 
