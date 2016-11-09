@@ -226,6 +226,8 @@ ES6中文版，包括一些常用代码片段
 
 [利用apply和arguments复用方法](http://www.cnblogs.com/snandy/p/3254940.html)
 
+[深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+
 ## 移动端
 
 [Web移动端Taps](http://www.haorooms.com/post/phone_web)
