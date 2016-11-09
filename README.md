@@ -82,7 +82,7 @@
 全屏滚动插件
 
 
-## 灯箱插件
+## 灯箱插件（lightBox）
 
 [swipebox](https://github.com/brutaldesign/swipebox)
 
