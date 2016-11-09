@@ -128,7 +128,7 @@ ES6中文版，包括一些常用代码片段
 
 [Vue.js——60分钟快速入门](https://github.com/keepfool/vue-tutorials)
 
-[]()
+[Vue.js 源码剖析](http://www.open-open.com/lib/view/open1439344021458.html)
 
 
 #### Node
