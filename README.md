@@ -89,6 +89,15 @@
 找了很多，发现这个是比较好用的一个，接口简单明了，也可以定制标题，切换/关闭按钮，暂时发现的一个坑就是如果移动端使用的话，默认是隐藏标题和切换按钮的，如果需要，可以修改源码（build方法）
 
 
+## 头像剪切插件
+
+[jquery-cropbox](https://github.com/acornejo/jquery-cropbox)
+
+[Cropbox.js 爬坑小记 ](http://ruby-china.org/topics/25492)
+
+
+
+
 
 ----
 
