@@ -93,9 +93,17 @@
 
 [jquery-cropbox](https://github.com/acornejo/jquery-cropbox)
 
-[Cropbox.js 爬坑小记 ](http://ruby-china.org/topics/25492)
+[Cropbox.js 爬坑小记](http://ruby-china.org/topics/25492)
 
+简单简洁的头像裁剪插件
 
+[Jcrop](http://code.ciaoca.com/jquery/jcrop/demo/)
+
+可以配合后端实现裁剪预览效果
+
+[Image Cropper](http://www.jqcool.net/image-cropper.html)
+
+功能强大，支持图片放大缩小，支持鼠标滚轮操作，支持图片旋转，支持触摸屏设备，支持canvas，并且支持跨浏览器使用。
 
 
 
