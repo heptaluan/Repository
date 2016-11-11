@@ -127,6 +127,7 @@ ES6中文版，包括一些常用代码片段
 
 ## 教程
 
+
 #### Vue
 
 [A Simple Vue Guide](http://cody1991.github.io/vue/2016/08/30/a-simple-vue-guide.html)
@@ -135,14 +136,22 @@ ES6中文版，包括一些常用代码片段
 
 [Vue.js 源码剖析](http://www.open-open.com/lib/view/open1439344021458.html)
 
+
+
 #### React
 
 [React 中文](http://react-china.org/)
 
 
+
 #### Node
 
 [《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)
+
+
+#### js
+
+[综合大练习](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0003)
 
 
 
