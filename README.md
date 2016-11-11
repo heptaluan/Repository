@@ -274,7 +274,7 @@ ES6中文版，包括一些常用代码片段
 
 [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
-[深入理解javascript原型和闭包](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
+[js和jquery懒加载之可视区域加载](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
 
 
 ## 移动端
