@@ -218,7 +218,7 @@ ES6中文版，包括一些常用代码片段
 
 前端知识结构图与其相关的一些内容
 
-[百度Baidu EFE team的前端规范文档]()
+[百度Baidu EFE team的前端规范文档](http://top.css88.com/archives/562)
 
 
 
