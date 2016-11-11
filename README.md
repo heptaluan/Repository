@@ -113,6 +113,8 @@ ES6中文版，包括一些常用代码片段
 [ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
 
 
+
+
 ## 前端书籍墙
 
 [前端书籍墙（电子书）](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book)
@@ -120,6 +122,8 @@ ES6中文版，包括一些常用代码片段
 [百度盘分享书籍（电子书）](http://pan.baidu.com/share/home?uk=1866459472#category/type=0)
 
 [前端书评](http://imweb.io/topic/56d44d720848801a4ba198cf)
+
+
 
 ## 教程
 
@@ -134,7 +138,6 @@ ES6中文版，包括一些常用代码片段
 #### React
 
 [React 中文](http://react-china.org/)
-
 
 
 #### Node
@@ -215,6 +218,17 @@ ES6中文版，包括一些常用代码片段
 
 前端知识结构图与其相关的一些内容
 
+[百度Baidu EFE team的前端规范文档]()
+
+
+
+## 工具
+
+[Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+
+[GotGitHub](http://www.worldhello.net/gotgithub/)
+
+
 
 ## JS
 
@@ -233,6 +247,8 @@ ES6中文版，包括一些常用代码片段
 [利用apply和arguments复用方法](http://www.cnblogs.com/snandy/p/3254940.html)
 
 [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+
+
 
 ## 移动端
 
