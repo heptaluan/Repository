@@ -133,6 +133,7 @@ ES6中文版，包括一些常用代码片段
 
 #### React
 
+[React 中文](http://react-china.org/)
 
 
 
