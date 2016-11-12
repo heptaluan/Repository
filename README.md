@@ -133,9 +133,11 @@ ES6中文版，包括一些常用代码片段
 [《ECMAScript 6入门》](http://es6.ruanyifeng.com/#README)
 
 
+
 ### ES5规范（中文）
 
 [ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
+
 
 
 ### 前端书籍墙
@@ -148,13 +150,21 @@ ES6中文版，包括一些常用代码片段
 
 [Node书籍](http://borninsummer.com/2014/01/10/books-for-nodejs-learners/)
 
+
+
 ### JSON在线校验工具
 
 [JSONLint](http://jsonlint.com/)
 
+
+
+
 ### 各个版本的head头部样板
 
 [HTML head Generator](http://lab.dimpurr.com/html-head-generator/)
+
+
+
 
 ### PS相关
 
@@ -288,6 +298,9 @@ ES6中文版，包括一些常用代码片段
 ### jQuery
 
 [开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
+
+[开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
+
 
 ## CSS
 
