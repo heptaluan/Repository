@@ -11,7 +11,7 @@
 
 ## 组件 & 插件
 
-#### Vue日历组件
+### Vue日历组件
 
 [vue-calendar](https://github.com/jinzhe/vue-calendar)
 
@@ -34,7 +34,7 @@
 类似美团，移动端用，底部弹出层，可选开始与结束日期
 
 
-#### Vue UI库
+### Vue UI库
 
 [Element](http://element.eleme.io/#/)
 
@@ -51,7 +51,7 @@
 基于 Vue 和 WeUI 的 UI 组件库
 
 
-#### 价格日历
+### 价格日历
 
 [酒店价格日历](https://github.com/fugm/PriceCalendar)
 
@@ -73,7 +73,7 @@
 简易价格日历，可编辑价格
 
 
-#### 滚动条插件
+### 滚动条插件
 
 [jquery-custom-content-scroller](https://github.com/itmyhome2013/jquery-custom-content-scroller)
 
@@ -84,14 +84,14 @@
 全屏滚动插件
 
 
-#### 灯箱插件（lightBox）
+### 灯箱插件（lightBox）
 
 [swipebox](https://github.com/brutaldesign/swipebox)
 
 找了很多，发现这个是比较好用的一个，接口简单明了，也可以定制标题，切换/关闭按钮，暂时发现的一个坑就是如果移动端使用的话，默认是隐藏标题和切换按钮的，如果需要，可以修改源码（build方法）
 
 
-#### 头像剪切插件
+### 头像剪切插件
 
 [jquery-cropbox](https://github.com/acornejo/jquery-cropbox)
 
@@ -124,19 +124,19 @@
 一些书籍，文档，工具之类
 
 
-#### ES6相关
+### ES6相关
 
 [es6-cheatsheet-chinese](https://github.com/hanekaoru/es6-cheatsheet-chinese)
 
 ES6中文版，包括一些常用代码片段
 
 
-#### ES5规范（中文）
+### ES5规范（中文）
 
 [ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
 
 
-#### 前端书籍墙
+### 前端书籍墙
 
 [前端书籍墙（电子书）](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book)
 
@@ -144,15 +144,15 @@ ES6中文版，包括一些常用代码片段
 
 [前端书评](http://imweb.io/topic/56d44d720848801a4ba198cf)
 
-#### JSON在线校验工具
+### JSON在线校验工具
 
 [JSONLint](http://jsonlint.com/)
 
-#### 各个版本的head头部样板
+### 各个版本的head头部样板
 
 [HTML head Generator](http://lab.dimpurr.com/html-head-generator/)
 
-#### PS相关
+### PS相关
 
 [Cutterman](http://www.cutterman.cn/zh/cutterman)
 
@@ -167,7 +167,7 @@ ES6中文版，包括一些常用代码片段
 ## 教程
 
 
-#### Vue
+### Vue
 
 [A Simple Vue Guide](http://cody1991.github.io/vue/2016/08/30/a-simple-vue-guide.html)
 
@@ -177,17 +177,17 @@ ES6中文版，包括一些常用代码片段
 
 
 
-#### React
+### React
 
 [React 中文](http://react-china.org/)
 
 
-#### Node
+### Node
 
 [《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)
 
 
-#### js
+### js
 
 [综合大练习](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0003)
 
@@ -195,7 +195,7 @@ ES6中文版，包括一些常用代码片段
 
 ## 工具库（源码）
 
-#### underscore
+### underscore
 
 [underscore](https://github.com/jashkenas/underscore)
 
@@ -207,7 +207,7 @@ ES6中文版，包括一些常用代码片段
 
 
 
-#### backbone
+### backbone
 
 [backbone](https://github.com/jashkenas/backbone)
 
@@ -215,7 +215,7 @@ ES6中文版，包括一些常用代码片段
 
 
 
-#### zepto
+### zepto
 
 [zepto](https://github.com/madrobby/zepto)
 
@@ -273,7 +273,7 @@ ES6中文版，包括一些常用代码片段
 [js和jquery懒加载之可视区域加载](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
 
 
-#### 移动端
+### 移动端
 
 [Web移动端Taps](http://www.haorooms.com/post/phone_web)
 
@@ -281,7 +281,7 @@ ES6中文版，包括一些常用代码片段
 
 ## 类库
 
-#### jQuery
+### jQuery
 
 [开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
 
@@ -291,7 +291,7 @@ ES6中文版，包括一些常用代码片段
 
 ## 框架
 
-#### Vue
+### Vue
 
 [Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
 
@@ -303,7 +303,7 @@ ES6中文版，包括一些常用代码片段
 
 ## 后端
 
-#### Node
+### Node
 
 cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
