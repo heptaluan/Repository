@@ -9,7 +9,9 @@
 （开头部分是一些组件，插件类的，中间是一些相关书籍，工具一类的，最下面是一些相关知识点，blog之类的）
 
 
-## Vue 日历组件
+## 组件 & 插件
+
+#### Vue日历组件
 
 [vue-calendar](https://github.com/jinzhe/vue-calendar)
 
@@ -32,7 +34,7 @@
 类似美团，移动端用，底部弹出层，可选开始与结束日期
 
 
-## Vue UI库
+#### Vue UI库
 
 [Element](http://element.eleme.io/#/)
 
@@ -49,7 +51,7 @@
 基于 Vue 和 WeUI 的 UI 组件库
 
 
-## 价格日历
+#### 价格日历
 
 [酒店价格日历](https://github.com/fugm/PriceCalendar)
 
@@ -71,7 +73,7 @@
 简易价格日历，可编辑价格
 
 
-## 滚动条插件
+#### 滚动条插件
 
 [jquery-custom-content-scroller](https://github.com/itmyhome2013/jquery-custom-content-scroller)
 
@@ -82,14 +84,14 @@
 全屏滚动插件
 
 
-## 灯箱插件（lightBox）
+#### 灯箱插件（lightBox）
 
 [swipebox](https://github.com/brutaldesign/swipebox)
 
 找了很多，发现这个是比较好用的一个，接口简单明了，也可以定制标题，切换/关闭按钮，暂时发现的一个坑就是如果移动端使用的话，默认是隐藏标题和切换按钮的，如果需要，可以修改源码（build方法）
 
 
-## 头像剪切插件
+#### 头像剪切插件
 
 [jquery-cropbox](https://github.com/acornejo/jquery-cropbox)
 
@@ -113,32 +115,52 @@
 
 ----
 
+----
+
+----
+
 ## 杂类
 
 一些书籍，文档，工具之类
 
 
-## ES6相关
+#### ES6相关
 
 [es6-cheatsheet-chinese](https://github.com/hanekaoru/es6-cheatsheet-chinese)
 
 ES6中文版，包括一些常用代码片段
 
 
-## ES5规范（中文）
+#### ES5规范（中文）
 
 [ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
 
 
-
-
-## 前端书籍墙
+#### 前端书籍墙
 
 [前端书籍墙（电子书）](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book)
 
 [百度盘分享书籍（电子书）](http://pan.baidu.com/share/home?uk=1866459472#category/type=0)
 
 [前端书评](http://imweb.io/topic/56d44d720848801a4ba198cf)
+
+#### JSON在线校验工具
+
+[JSONLint](http://jsonlint.com/)
+
+#### 各个版本的head头部样板
+
+[HTML head Generator](http://lab.dimpurr.com/html-head-generator/)
+
+#### PS相关
+
+[Cutterman](http://www.cutterman.cn/zh/cutterman)
+
+一款运行在photoshop中的插件，能够自动将你需要的图层进行输出， 以替代传统的手工 "导出web所用格式" 以及使用切片工具进行挨个切图的繁琐流程
+
+[icomoon](https://icomoon.io/)
+
+免费开源图标字体
 
 
 
@@ -160,7 +182,6 @@ ES6中文版，包括一些常用代码片段
 [React 中文](http://react-china.org/)
 
 
-
 #### Node
 
 [《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)
@@ -170,18 +191,6 @@ ES6中文版，包括一些常用代码片段
 
 [综合大练习](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0003)
 
-
-
-
-## JSON在线校验工具
-
-[JSONLint](http://jsonlint.com/)
-
-
-
-## 各个版本的head头部样板
-
-[HTML head Generator](http://lab.dimpurr.com/html-head-generator/)
 
 
 ## 工具库（源码）
@@ -211,20 +220,9 @@ ES6中文版，包括一些常用代码片段
 [zepto](https://github.com/madrobby/zepto)
 
 
+----
 
-
-
-## PS相关
-
-[Cutterman](http://www.cutterman.cn/zh/cutterman)
-
-一款运行在photoshop中的插件，能够自动将你需要的图层进行输出， 以替代传统的手工 "导出web所用格式" 以及使用切片工具进行挨个切图的繁琐流程
-
-[icomoon](https://icomoon.io/)
-
-免费开源图标字体
-
-
+----
 
 ----
 
@@ -264,8 +262,6 @@ ES6中文版，包括一些常用代码片段
 
 [观察者模式](http://www.cnblogs.com/TomXu/archive/2012/03/02/2355128.html)
 
-[开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
-
 [自定义事件和声明调用函数的区别](https://segmentfault.com/q/1010000002487388)
 
 [JavaScript 中的函数式编程实践](http://www.ibm.com/developerworks/cn/web/1006_qiujt_jsfunctional/)
@@ -277,24 +273,39 @@ ES6中文版，包括一些常用代码片段
 [js和jquery懒加载之可视区域加载](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
 
 
-## 移动端
+#### 移动端
 
 [Web移动端Taps](http://www.haorooms.com/post/phone_web)
 
 [touchweb手机网站图片加载方法(canvas加载和延迟加载)](http://www.haorooms.com/post/touchweb_canvas_lazyload)
 
+## 类库
+
+#### jQuery
+
+[开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
 
 ## CSS
 
 ['display'、'position' 和 'float' 的相互关系](http://www.cnblogs.com/jackyWHJ/p/3756087.html)
 
-## Vue
+## 框架
+
+#### Vue
 
 [Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
 
-## Node
 
-#### cnode精华帖（大部分为Node相关知识，也包含一些其他）
+## 构建、依赖工具
+
+[webpack前端模块加载工具](http://www.cnblogs.com/YikaJ/p/4586703.html)
+
+
+## 后端
+
+#### Node
+
+cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 [Node.js写爬虫系列](https://cnodejs.org/topic/57c529cf9b447b634391c814)
 
