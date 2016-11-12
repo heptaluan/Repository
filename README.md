@@ -132,6 +132,7 @@ ES6中文版，包括一些常用代码片段
 
 [《ECMAScript 6入门》](http://es6.ruanyifeng.com/#README)
 
+《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
 
 
 ### ES5规范（中文）
