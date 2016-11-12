@@ -144,6 +144,8 @@ ES6中文版，包括一些常用代码片段
 
 [前端书评](http://imweb.io/topic/56d44d720848801a4ba198cf)
 
+[Node书籍](http://borninsummer.com/2014/01/10/books-for-nodejs-learners/)
+
 ### JSON在线校验工具
 
 [JSONLint](http://jsonlint.com/)
