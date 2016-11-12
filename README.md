@@ -130,6 +130,8 @@
 
 ES6中文版，包括一些常用代码片段
 
+[《ECMAScript 6入门》](http://es6.ruanyifeng.com/#README)
+
 
 ### ES5规范（中文）
 
