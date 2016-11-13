@@ -6,107 +6,99 @@
 
 查漏补缺，扩展前端相关知识，总结自己的不足之处
 
-（开头部分是一些组件，插件类的，中间是一些相关书籍，工具一类的，最下面是一些相关知识点，blog之类的）
 
-       
 ## 组件 & 插件
 
+
+
+
+
 ### Vue日历组件
+[vue-calendar（基于vuejs+webpack环境使用的日期选择插件，支持多选）](https://github.com/jinzhe/vue-calendar)
 
-[vue-calendar](https://github.com/jinzhe/vue-calendar)
+[vue-fullcalendar（基于vuejs的fullcalendar，日历记事本一类的）](https://github.com/Wanderxx/vue-fullcalendar)
 
-基于vuejs+webpack环境使用的日期选择插件
+[vue2-calendar（各种类型日历均有，价格日历，API丰富）](https://github.com/icai/vue2-calendar)
 
-精简类的日历，支持多选日期
-
-
-[vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar)
-
-基于vuejs的fullcalendar，日历记事本一类的
+[vue-component-calendar（类似美团，移动端用，底部弹出层，可选开始与结束日期）](https://github.com/Real0n/vue-component-calendar)
 
 
-[vue2-calendar](https://github.com/icai/vue2-calendar)
 
-各种类型日历均有，价格日历，API丰富
 
-[vue-component-calendar](https://github.com/Real0n/vue-component-calendar)
-
-类似美团，移动端用，底部弹出层，可选开始与结束日期
 
 
 ### Vue UI库
+[Element（基于 Vue 2.0 的组件库）](http://element.eleme.io/#/)
 
-[Element](http://element.eleme.io/#/)
+[Vuex（应用设计的状态管理架构）](https://github.com/vuejs/vuex)
 
-基于 Vue 2.0 的组件库
-
-
-[Vuex](https://github.com/vuejs/vuex)
-
-应用设计的状态管理架构
+[Vux（基于 Vue 和 WeUI 的 UI 组件库）](https://github.com/airyland/vux)
 
 
-[Vux](https://github.com/airyland/vux)
 
-基于 Vue 和 WeUI 的 UI 组件库
+
+
 
 
 ### 价格日历
+[酒店价格日历（基于YUI3开发的价格日历组件）](https://github.com/fugm/PriceCalendar)
 
-[酒店价格日历](https://github.com/fugm/PriceCalendar)
+[price-calendar（价格日历，可以统一设置全月每天的价格，还可以单独设置某天的价格）](https://github.com/wind-stone/price-calendar)
 
-基于YUI3开发的价格日历组件
+[price-calendar（精简价格展示日历）](https://github.com/liukaijv/price-calendar)
 
-
-[price-calendar](https://github.com/wind-stone/price-calendar)
-
-价格日历，可以统一设置全月每天的价格，还可以单独设置某天的价格
+[daymoney（简易价格日历，可编辑价格）](https://github.com/lscho/am-daymoney)
 
 
-[price-calendar](https://github.com/liukaijv/price-calendar)
-
-精简价格展示日历
 
 
-[daymoney](https://github.com/lscho/am-daymoney)
 
-简易价格日历，可编辑价格
+
+
+### Swiper
+
+[Swiper 中文网](https://www.baidu.com/link?url=UQoesURrEsUM4NvE5ZacHg9l9hOPja47tWrx2zKUI7EXIdiI3Cx2no0BRbPUxc_x&wd=&eqid=d40002c600051070000000055828360d)
+
+[Swiper 上下拉刷新&加载相关](https://segmentfault.com/q/1010000004357803)
+
+[关于上下手势拉动动态加载数据的小结](http://www.w3cfuns.com/notes/16294/833647b708dc964a54d114825ef20921)
+
+
+
+
+
+
+
 
 
 ### 滚动条插件
+[jquery-custom-content-scroller（页面多列滚动布局）](https://github.com/itmyhome2013/jquery-custom-content-scroller)
 
-[jquery-custom-content-scroller](https://github.com/itmyhome2013/jquery-custom-content-scroller)
+[fullpage（全屏滚动插件）](https://github.com/powy1993/fullpage)
 
-页面多列滚动布局
 
-[fullpage](https://github.com/powy1993/fullpage)
 
-全屏滚动插件
+
 
 
 ### 灯箱插件（lightBox）
-
 [swipebox](https://github.com/brutaldesign/swipebox)
 
 找了很多，发现这个是比较好用的一个，接口简单明了，也可以定制标题，切换/关闭按钮，暂时发现的一个坑就是如果移动端使用的话，默认是隐藏标题和切换按钮的，如果需要，可以修改源码（build方法）
 
 
-### 头像剪切插件
 
-[jquery-cropbox](https://github.com/acornejo/jquery-cropbox)
+
+
+
+### 头像剪切插件
+[jquery-cropbox（简单简洁的头像裁剪插件）](https://github.com/acornejo/jquery-cropbox)
 
 [Cropbox.js 爬坑小记](http://ruby-china.org/topics/25492)
 
-简单简洁的头像裁剪插件
+[Jcrop（可以配合后端实现裁剪预览效果）](http://code.ciaoca.com/jquery/jcrop/demo/)
 
-[Jcrop](http://code.ciaoca.com/jquery/jcrop/demo/)
-
-可以配合后端实现裁剪预览效果
-
-[Image Cropper](http://www.jqcool.net/image-cropper.html)
-
-功能强大，支持图片放大缩小，支持鼠标滚轮操作，支持图片旋转，支持触摸屏设备，支持canvas，并且支持跨浏览器使用。
-
+[Image Cropper（功能强大，支持图片放大缩小，支持鼠标滚轮操作，支持图片旋转，支持触摸屏设备，支持canvas，并且支持跨浏览器使用）](http://www.jqcool.net/image-cropper.html)
 
 
 ----
@@ -119,99 +111,50 @@
 
 ----
 
-## 杂类
 
-一些书籍，文档，工具之类
+## JS
 
 
-### ES6相关
 
-[es6-cheatsheet-chinese](https://github.com/hanekaoru/es6-cheatsheet-chinese)
 
-ES6中文版，包括一些常用代码片段
+
+
+
+#### Web
+[综合大练习](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0003)
+
+[前端技能汇总](https://github.com/JacksonTian/fks)
+
+[百度Baidu EFE team的前端规范文档](http://top.css88.com/archives/562)
+
+[前端开发值得推荐的各种资源](http://www.cnblogs.com/sumoo/p/4643926.html)
+
+[GitHub上有趣的资源](http://www.jianshu.com/collection/e2a2a0073e2d)
+
+[do you really know JavaScript? Javascript 8级测试](http://javascript-puzzlers.herokuapp.com/)
+
+
+
+### ES6
+[es6-cheatsheet-chinese（ES6中文版，包括一些常用代码片段）](https://github.com/hanekaoru/es6-cheatsheet-chinese)
 
 [《ECMAScript 6入门》](http://es6.ruanyifeng.com/#README)
 
-《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
+
+
+
 
 
 ### ES5规范（中文）
-
 [ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
 
 
 
-### 前端书籍墙
-
-[前端书籍墙（电子书）](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book)
-
-[百度盘分享书籍（电子书）](http://pan.baidu.com/share/home?uk=1866459472#category/type=0)
-
-[前端书评](http://imweb.io/topic/56d44d720848801a4ba198cf)
-
-[Node书籍](http://borninsummer.com/2014/01/10/books-for-nodejs-learners/)
 
 
 
-### JSON在线校验工具
-
-[JSONLint](http://jsonlint.com/)
-
-
-
-
-### 各个版本的head头部样板
-
-[HTML head Generator](http://lab.dimpurr.com/html-head-generator/)
-
-
-
-
-### PS相关
-
-[Cutterman](http://www.cutterman.cn/zh/cutterman)
-
-一款运行在photoshop中的插件，能够自动将你需要的图层进行输出， 以替代传统的手工 "导出web所用格式" 以及使用切片工具进行挨个切图的繁琐流程
-
-[icomoon](https://icomoon.io/)
-
-免费开源图标字体
-
-
-
-## 教程
-
-
-### Vue
-
-[A Simple Vue Guide](http://cody1991.github.io/vue/2016/08/30/a-simple-vue-guide.html)
-
-[Vue.js——60分钟快速入门](https://github.com/keepfool/vue-tutorials)
-
-[Vue.js 源码剖析](http://www.open-open.com/lib/view/open1439344021458.html)
-
-
-
-### React
-
-[React 中文](http://react-china.org/)
-
-
-### Node
-
-[《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)
-
-
-### js
-
-[综合大练习](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0003)
-
-
-
-## 工具库（源码）
 
 ### underscore
-
 [underscore](https://github.com/jashkenas/underscore)
 
 [Underscore.js (1.8.3) 中文文档](http://www.css88.com/doc/underscore/)
@@ -222,58 +165,73 @@ ES6中文版，包括一些常用代码片段
 
 
 
-### backbone
 
+
+
+
+
+### backbone
 [backbone](https://github.com/jashkenas/backbone)
 
 [Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
 
 
 
-### zepto
 
+
+
+
+### prototype
+[prototype.js 开发者手册](http://thinhunan.cnblogs.com/archive/2006/04/01/DeveloperNotesForPrototype.html)
+
+
+
+
+
+
+
+### zepto
 [zepto](https://github.com/madrobby/zepto)
 
 
-----
-
-----
-
-----
-
-----
-
-----
 
 
 
-## Tips
-
-一些知识点，blog一类的
-
-## Web
-
-[前端技能汇总](https://github.com/JacksonTian/fks)
-
-前端知识结构图与其相关的一些内容
-
-[百度Baidu EFE team的前端规范文档](http://top.css88.com/archives/562)
 
 
 
-## 工具
+### 移动端
+[Web移动端Taps](http://www.haorooms.com/post/phone_web)
 
-[Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+[touchweb手机网站图片加载方法(canvas加载和延迟加载)](http://www.haorooms.com/post/touchweb_canvas_lazyload)
 
-[GotGitHub](http://www.worldhello.net/gotgithub/)
+[移动端H5图片上传的那些坑](https://segmentfault.com/a/1190000006140042)
+
+[移动端HTML5音频与视频问题及解决方案](http://www.cnblogs.com/aaronjs/p/4812119.html)
 
 
 
-## JS
 
+
+
+### jQuery
+[开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
+
+[js和jquery懒加载之可视区域加载](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
+
+
+
+
+
+
+
+
+### 其他
 [Javascript模块化编程](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 
 [HTML5各种排序算法的动画比较](http://www.webhek.com/misc/comparison-sort)
+
+[可视化排序算法](http://jsdo.it/norahiko/oxIy/fullscreen)
 
 [观察者模式](http://www.cnblogs.com/TomXu/archive/2012/03/02/2355128.html)
 
@@ -285,44 +243,116 @@ ES6中文版，包括一些常用代码片段
 
 [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
+[javascript异步编程 ](https://segmentfault.com/a/1190000002938132)
 
 
-### 移动端
 
-[Web移动端Taps](http://www.haorooms.com/post/phone_web)
 
-[touchweb手机网站图片加载方法(canvas加载和延迟加载)](http://www.haorooms.com/post/touchweb_canvas_lazyload)
 
-## 类库
 
-### jQuery
 
-[开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
 
-[js和jquery懒加载之可视区域加载](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
 
 
 ## CSS
-
 ['display'、'position' 和 'float' 的相互关系](http://www.cnblogs.com/jackyWHJ/p/3756087.html)
+
+[CSS的margin塌陷（collapse）](http://blog.chinaunix.net/uid-22414998-id-3138656.html)
+
+[深入理解BFC和Margin Collapse_BFC, margin collapse, clear, float ](http://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html)
+
+[深入理解BFC和Margin Collapse_BFC, margin collapse, clear, float ](http://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html)
+
+[精选文摘：BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
+
+
+
+
+
+
 
 ## 框架
 
 ### Vue
-
 [Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
+
+[A Simple Vue Guide](http://cody1991.github.io/vue/2016/08/30/a-simple-vue-guide.html)
+
+[Vue.js——60分钟快速入门](https://github.com/keepfool/vue-tutorials)
+
+[Vue.js 源码剖析](http://www.open-open.com/lib/view/open1439344021458.html)
+
+
+
+
+
+
+### Angular
+[AngularJS学习笔记](http://www.zouyesheng.com/angular.html)
+
+[衡量一个人的 AngularJS 水平](https://www.zhihu.com/question/36040694#answer-31088795)
+
+[Angular冒泡排序算法的可视化](http://runjs.cn/detail/jcdxyuo0)
+
+
+
+
+
+
+
+
+### React
+[React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react)
+
+[一看就懂的ReactJs入门教程（精华版）](http://www.cocoachina.com/webapp/20150721/12692.html)
+
+[React 中文](http://react-china.org/)
+
+
+
+
+
+
+
+
+
+### 工具
+[Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+
+[GotGitHub](http://www.worldhello.net/gotgithub/)
+
+
+
+
+
+
+
 
 
 ## 构建、依赖工具
-
 [webpack前端模块加载工具](http://www.cnblogs.com/YikaJ/p/4586703.html)
+
+[webpack-doc](https://github.com/liunian/webpack-doc)
+
+[webpack 入门指南](http://www.w2bc.com/Article/50764)
+
+[Webpack傻瓜式指南](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
+
+[介绍 | react-webpack-cookbook](https://hainuo.gitbooks.io/react-webpack-cookbook/content/index.html)
+
+[webpack入门(译)](http://www.open-open.com/lib/view/open1445758674320.html)
+
+
+
+
 
 
 ## 后端
 
 ### Node
-
 cnode精华帖（大部分为Node相关知识，也包含一些其他）
+
+[《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)
 
 [Node.js写爬虫系列](https://cnodejs.org/topic/57c529cf9b447b634391c814)
 
@@ -435,6 +465,46 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 [你会考虑用它么？mini-obj](https://cnodejs.org/topic/54635a4f72f405c829029f3a)
 
 
+
+----
+
+----
+
+----
+
+----
+
+----
+
+## 杂类
+
+### 前端书籍墙
+
+[前端书籍墙（电子书）](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book)
+
+[百度盘分享书籍（电子书）](http://pan.baidu.com/share/home?uk=1866459472#category/type=0)
+
+[前端书评](http://imweb.io/topic/56d44d720848801a4ba198cf)
+
+[Node书籍](http://borninsummer.com/2014/01/10/books-for-nodejs-learners/)
+
+
+### JSON在线校验工具
+
+[JSONLint](http://jsonlint.com/)
+
+
+### 各个版本的head头部样板
+
+[HTML head Generator](http://lab.dimpurr.com/html-head-generator/)
+
+
+### PS
+
+[Cutterman（photoshop中的插件，能够自动将你需要的图层进行输出）](http://www.cutterman.cn/zh/cutterman)
+
+
+[icomoon（免费开源图标字体）](https://icomoon.io/)
 
 
 
