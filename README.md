@@ -13,6 +13,10 @@
 
 
 
+
+
+
+
 ### Vue日历组件
 [vue-calendar（基于vuejs+webpack环境使用的日期选择插件，支持多选）](https://github.com/jinzhe/vue-calendar)
 
@@ -21,6 +25,9 @@
 [vue2-calendar（各种类型日历均有，价格日历，API丰富）](https://github.com/icai/vue2-calendar)
 
 [vue-component-calendar（类似美团，移动端用，底部弹出层，可选开始与结束日期）](https://github.com/Real0n/vue-component-calendar)
+
+
+
 
 
 
@@ -40,6 +47,8 @@
 
 
 
+
+
 ### 价格日历
 [酒店价格日历（基于YUI3开发的价格日历组件）](https://github.com/fugm/PriceCalendar)
 
@@ -48,6 +57,8 @@
 [price-calendar（精简价格展示日历）](https://github.com/liukaijv/price-calendar)
 
 [daymoney（简易价格日历，可编辑价格）](https://github.com/lscho/am-daymoney)
+
+
 
 
 
@@ -81,8 +92,12 @@
 
 
 
+
+
+
 ### 灯箱插件（lightBox）
 [swipebox（比较好用的一个，接口简单，可定制标题，切换/关闭按钮，暂时发现的一个坑就是如果移动端使用的话，默认是隐藏标题和切换按钮的，如果需要，可以修改源码中的build方法）](https://github.com/brutaldesign/swipebox)
+
 
 
 
@@ -120,6 +135,8 @@
 
 
 
+
+
 #### Web
 [综合大练习](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0003)
 
@@ -135,6 +152,12 @@
 
 
 
+
+
+
+
+
+
 ### ES6
 [es6-cheatsheet-chinese（ES6中文版，包括一些常用代码片段）](https://github.com/hanekaoru/es6-cheatsheet-chinese)
 
@@ -145,8 +168,13 @@
 
 
 
+
+
+
 ### ES5规范（中文）
 [ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
+
+
 
 
 
@@ -170,6 +198,7 @@
 
 
 
+
 ### backbone
 [backbone](https://github.com/jashkenas/backbone)
 
@@ -181,8 +210,12 @@
 
 
 
+
+
 ### prototype
 [prototype.js 开发者手册](http://thinhunan.cnblogs.com/archive/2006/04/01/DeveloperNotesForPrototype.html)
+
+
 
 
 
@@ -200,6 +233,7 @@
 
 
 
+
 ### 移动端
 [Web移动端Taps](http://www.haorooms.com/post/phone_web)
 
@@ -208,6 +242,9 @@
 [移动端H5图片上传的那些坑](https://segmentfault.com/a/1190000006140042)
 
 [移动端HTML5音频与视频问题及解决方案](http://www.cnblogs.com/aaronjs/p/4812119.html)
+
+
+
 
 
 
@@ -254,7 +291,6 @@
 
 
 
-
 ## CSS
 ['display'、'position' 和 'float' 的相互关系](http://www.cnblogs.com/jackyWHJ/p/3756087.html)
 
@@ -263,6 +299,8 @@
 [深入理解BFC和Margin Collapse_BFC, margin collapse, clear, float ](http://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html)
 
 [精选文摘：BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
+
+
 
 
 
@@ -286,12 +324,16 @@
 
 
 
+
+
+
 ### Angular
 [AngularJS学习笔记](http://www.zouyesheng.com/angular.html)
 
 [衡量一个人的 AngularJS 水平](https://www.zhihu.com/question/36040694#answer-31088795)
 
 [Angular冒泡排序算法的可视化](http://runjs.cn/detail/jcdxyuo0)
+
 
 
 
@@ -340,6 +382,9 @@
 [介绍 | react-webpack-cookbook](https://hainuo.gitbooks.io/react-webpack-cookbook/content/index.html)
 
 [webpack入门(译)](http://www.open-open.com/lib/view/open1445758674320.html)
+
+
+
 
 
 
@@ -475,6 +520,8 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 ----
 
+
+
 ## 杂类
 
 ### 前端书籍墙
@@ -488,9 +535,23 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 [Node书籍](http://borninsummer.com/2014/01/10/books-for-nodejs-learners/)
 
 
+
+
+
+
+
+
+
 ### JSON在线校验工具
 
 [JSONLint](http://jsonlint.com/)
+
+
+
+
+
+
+
 
 
 ### 各个版本的head头部样板
@@ -498,10 +559,16 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 [HTML head Generator](http://lab.dimpurr.com/html-head-generator/)
 
 
+
+
+
+
+
+
+
 ### PS
 
 [Cutterman（photoshop中的插件，能够自动将你需要的图层进行输出）](http://www.cutterman.cn/zh/cutterman)
-
 
 [icomoon（免费开源图标字体）](https://icomoon.io/)
 
