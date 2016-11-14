@@ -226,6 +226,7 @@
 
 
 
+
 ### 其他
 [Javascript模块化编程](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 
@@ -258,8 +259,6 @@
 ['display'、'position' 和 'float' 的相互关系](http://www.cnblogs.com/jackyWHJ/p/3756087.html)
 
 [CSS的margin塌陷（collapse）](http://blog.chinaunix.net/uid-22414998-id-3138656.html)
-
-[深入理解BFC和Margin Collapse_BFC, margin collapse, clear, float ](http://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html)
 
 [深入理解BFC和Margin Collapse_BFC, margin collapse, clear, float ](http://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html)
 
