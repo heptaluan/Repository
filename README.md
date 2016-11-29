@@ -105,6 +105,16 @@
 
 
 
+### 弹窗插件
+[layer（一个可以让你想到即可做到的JavaScript弹窗（层）解决方案）](http://layer.layui.com/)
+
+
+
+
+
+
+
+
 
 ### 头像剪切插件
 [jquery-cropbox（简单简洁的头像裁剪插件）](https://github.com/acornejo/jquery-cropbox)
