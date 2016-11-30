@@ -519,6 +519,10 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 [你会考虑用它么？mini-obj](https://cnodejs.org/topic/54635a4f72f405c829029f3a)
 
 
+### TCP和Http
+
+[TCP和Http的区别](http://www.cnblogs.com/welcomer/p/3776525.html)
+
 
 ----
 
