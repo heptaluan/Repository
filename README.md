@@ -245,6 +245,7 @@
 
 
 ### 移动端
+
 [Web移动端Taps](http://www.haorooms.com/post/phone_web)
 
 [touchweb手机网站图片加载方法(canvas加载和延迟加载)](http://www.haorooms.com/post/touchweb_canvas_lazyload)
@@ -262,6 +263,7 @@
 
 
 ### jQuery
+
 [开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
 
 [js和jquery懒加载之可视区域加载](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
@@ -329,8 +331,7 @@
 
 [Vue.js 源码剖析](http://www.open-open.com/lib/view/open1439344021458.html)
 
-
-
+[vue.js的一些稍微复杂的案例](https://www.zhihu.com/question/38269617)
 
 
 
@@ -434,6 +435,7 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 [co 4.6源码解析](https://cnodejs.org/topic/576bdffa889605241796f7d9)
 
+[co 函数库的含义和用法](http://www.ruanyifeng.com/blog/2015/05/co.html)
 
 
 
@@ -500,6 +502,8 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 
 ### 其他
+
+[《何为 connect 中间件》](https://github.com/alsotang/node-lessons/tree/master/lesson18)
 
 [三个分享——异步流程控制 / Modern Node.js/Java项目如何与Node.js共存](https://cnodejs.org/topic/578c7c94992ec53c14676735)
 
