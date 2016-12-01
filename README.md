@@ -412,13 +412,14 @@
 
 
 ### Node
-cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 [《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)
 
-
 [Node.js写爬虫系列](https://cnodejs.org/topic/57c529cf9b447b634391c814)
 
+[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
+
+[node-http 非常详细的介绍](http://i5ting.github.io/node-http/)
 
 
 
@@ -437,6 +438,7 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 [co 函数库的含义和用法](http://www.ruanyifeng.com/blog/2015/05/co.html)
 
+[一起来实现co（Promise化的4.X版）](https://segmentfault.com/a/1190000002715797)
 
 
 
@@ -452,6 +454,8 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 [Koa 还是 Express？](https://cnodejs.org/topic/55815f28395a0c1812f18257)
 
+[Node.js开发框架Express4.x](http://blog.fens.me/nodejs-express4/)
+
 
 
 
@@ -462,6 +466,7 @@ cnode精华帖（大部分为Node相关知识，也包含一些其他）
 
 [Node.js最新技术栈之Promise篇](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
 
+[Async中文文档](http://www.uedsc.com/open/async-doc)
 
 
 
