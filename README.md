@@ -424,10 +424,13 @@
 
 [node 实战 一个基于node.js+react+mongodb的IM聊天室](https://zhuanlan.zhihu.com/p/24033538)
 
+[大熊君大话NodeJS(一篇不错的教程帖)](http://www.cnblogs.com/bigbearbb/p/4200700.html)
 
 
 
 
+
+[写给 Node.js 学徒的 7 个建议](http://blog.jobbole.com/48769/)
 
 [Stream学习资料](https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8)
 
