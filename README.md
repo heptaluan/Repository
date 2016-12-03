@@ -382,6 +382,7 @@
 
 
 ## 构建、依赖工具
+
 [webpack前端模块加载工具](http://www.cnblogs.com/YikaJ/p/4586703.html)
 
 [webpack-doc](https://github.com/liunian/webpack-doc)
@@ -423,7 +424,11 @@
 
 [Stream学习资料](https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8)
 
+[Nodejs RESTFul架构实践之api篇](https://cnodejs.org/topic/557d647216839d2d53936351)
 
+[Nodejs RESTFul架构实践](https://cnodejs.org/topic/55778225c4e7fbea6e9a3357)
+
+[Node.js最新Web技术栈（2015年5月）](https://cnodejs.org/topic/55651bf07d4c64752effb4b1)
 
 
 
@@ -456,7 +461,7 @@
 
 [Node.js开发框架Express4.x](http://blog.fens.me/nodejs-express4/)
 
-
+[从npm tips到express插件机制设计](https://cnodejs.org/topic/559ba9221e5c761761468859)
 
 
 
@@ -520,7 +525,6 @@
 
 [如何评价Uber不用Node.js，而用Go语言构建地理查询服务？](https://cnodejs.org/topic/571cf4c7fa48138c41110d54)
 
-
 [一名全栈工程师Node.js之路](https://cnodejs.org/topic/56f33de702c237a73a1a8ab1)
 
 [国内Nodejs 2015汇总](https://cnodejs.org/topic/5696e43e6272216e51bff67e)
@@ -537,7 +541,7 @@
 
 [Moa-api：快速开发api类后端的框架（适用于angular、ionic后端）](https://cnodejs.org/topic/55c1fa095965fe2c74f477f7)
 
-[从npm tips到express插件机制设计](https://cnodejs.org/topic/559ba9221e5c761761468859)
+
 
 [负载均衡：haproxy，slb以及node-slb](https://cnodejs.org/topic/55921e6950946a072452564d)
 
@@ -545,11 +549,7 @@
 
 [sails vs meteor之sails篇](https://cnodejs.org/topic/558b6b92c31358754d3aa3cd)
 
-[Nodejs RESTFul架构实践之api篇](https://cnodejs.org/topic/557d647216839d2d53936351)
 
-[Nodejs RESTFul架构实践](https://cnodejs.org/topic/55778225c4e7fbea6e9a3357)
-
-[Node.js最新Web技术栈（2015年5月）](https://cnodejs.org/topic/55651bf07d4c64752effb4b1)
 
 [如何选择nodejs和iojs？以及性能比较](https://cnodejs.org/topic/555ca227e684c4c8088a0d16)
 
