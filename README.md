@@ -421,7 +421,7 @@
 
 [node-http 非常详细的介绍](http://i5ting.github.io/node-http/)
 
-
+[Stream学习资料](https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8)
 
 
 
@@ -485,7 +485,7 @@
 
 [mongodb运维之副本集实践](https://cnodejs.org/topic/5590adbbebf9c92d17e734de)
 
-
+[测试驱动来学习mongoose](https://cnodejs.org/topic/54578d9b6537f4d52c414e09)
 
 
 
@@ -520,7 +520,6 @@
 
 [如何评价Uber不用Node.js，而用Go语言构建地理查询服务？](https://cnodejs.org/topic/571cf4c7fa48138c41110d54)
 
-[Stream学习资料](https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8)
 
 [一名全栈工程师Node.js之路](https://cnodejs.org/topic/56f33de702c237a73a1a8ab1)
 
@@ -562,7 +561,7 @@
 
 [how-to-write-a-node-cli-tools-with-commander ](https://cnodejs.org/topic/545ac6f53e1f39344c5b3adb)
 
-[测试驱动来学习mongoose](https://cnodejs.org/topic/54578d9b6537f4d52c414e09)
+
 
 [你会考虑用它么？mini-obj](https://cnodejs.org/topic/54635a4f72f405c829029f3a)
 
