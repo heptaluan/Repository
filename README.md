@@ -422,6 +422,13 @@
 
 [node-http 非常详细的介绍](http://i5ting.github.io/node-http/)
 
+[node 实战 一个基于node.js+react+mongodb的IM聊天室](https://zhuanlan.zhihu.com/p/24033538)
+
+
+
+
+
+
 [Stream学习资料](https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8)
 
 [Nodejs RESTFul架构实践之api篇](https://cnodejs.org/topic/557d647216839d2d53936351)
@@ -436,7 +443,9 @@
 
 [国内Nodejs 2015汇总](https://cnodejs.org/topic/5696e43e6272216e51bff67e)
 
+[nodejs里的repl](https://cnodejs.org/topic/55c2ba865965fe2c74f478ac)
 
+[process.stdin的end事件如何触发？](http://www.jianshu.com/p/537b44a90c83)
 
 
 
@@ -531,7 +540,6 @@
 
 [如何评价Uber不用Node.js，而用Go语言构建地理查询服务？](https://cnodejs.org/topic/571cf4c7fa48138c41110d54)
 
-
 [Moajs框架演进之路](https://cnodejs.org/topic/567e2388aacb6923221de469)
 
 [发个半成品的react入门](https://cnodejs.org/topic/565935ff3cda7a91276ff766)
@@ -540,21 +548,13 @@
 
 [Visual Studio Code Guide升级版（持续更新中）](https://cnodejs.org/topic/56192cab41ceb58c4f8e6e67)
 
-[nodejs里的repl](https://cnodejs.org/topic/55c2ba865965fe2c74f478ac)
-
 [Moa-api：快速开发api类后端的框架（适用于angular、ionic后端）](https://cnodejs.org/topic/55c1fa095965fe2c74f477f7)
-
-
 
 [负载均衡：haproxy，slb以及node-slb](https://cnodejs.org/topic/55921e6950946a072452564d)
 
 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率](https://cnodejs.org/topic/558df089ebf9c92d17e73358)
 
 [sails vs meteor之sails篇](https://cnodejs.org/topic/558b6b92c31358754d3aa3cd)
-
-
-
-
 
 [如何展望未来的前端](https://cnodejs.org/topic/55560e717cabb7b45ee6bc62)
 
@@ -563,8 +563,6 @@
 [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
 
 [how-to-write-a-node-cli-tools-with-commander ](https://cnodejs.org/topic/545ac6f53e1f39344c5b3adb)
-
-
 
 [你会考虑用它么？mini-obj](https://cnodejs.org/topic/54635a4f72f405c829029f3a)
 
