@@ -148,6 +148,9 @@
 
 
 #### Web
+
+[淘宝前端团队（FED）](http://taobaofed.org/)
+
 [综合大练习](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0003)
 
 [前端技能汇总](https://github.com/JacksonTian/fks)
