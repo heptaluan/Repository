@@ -433,6 +433,8 @@
 
 
 
+[Node.js ES2015/ES6 support](http://node.green/)
+
 [写给 Node.js 学徒的 7 个建议](http://blog.jobbole.com/48769/)
 
 [Stream学习资料](https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8)
