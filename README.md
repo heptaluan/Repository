@@ -2,13 +2,6 @@
 
 收集的一些，用过或者接触过的插件，组件库集合
 
-## 组件 & 插件
-
-
-
-
-
-
 
 
 
@@ -24,22 +17,12 @@
 
 
 
-
-
-
-
-
 ### Vue UI库
 [Element（基于 Vue 2.0 的组件库）](http://element.eleme.io/#/)
 
 [Vuex（应用设计的状态管理架构）](https://github.com/vuejs/vuex)
 
 [Vux（基于 Vue 和 WeUI 的 UI 组件库）](https://github.com/airyland/vux)
-
-
-
-
-
 
 
 
@@ -56,11 +39,6 @@
 
 
 
-
-
-
-
-
 ### Swiper
 
 [Swiper 中文网](https://www.baidu.com/link?url=UQoesURrEsUM4NvE5ZacHg9l9hOPja47tWrx2zKUI7EXIdiI3Cx2no0BRbPUxc_x&wd=&eqid=d40002c600051070000000055828360d)
@@ -68,11 +46,6 @@
 [Swiper 上下拉刷新&加载相关](https://segmentfault.com/q/1010000004357803)
 
 [关于上下手势拉动动态加载数据的小结](http://www.w3cfuns.com/notes/16294/833647b708dc964a54d114825ef20921)
-
-
-
-
-
 
 
 
@@ -85,28 +58,14 @@
 
 
 
-
-
-
-
-
 ### 灯箱插件（lightBox）
 [swipebox（比较好用的一个，接口简单，可定制标题，切换/关闭按钮）如果移动端使用的话，默认是隐藏标题和切换按钮的，可以修改源码中的build方法，标题显示/隐藏需要双击，这个可以修改animBars方法，不想要上下拖动退出lightBox，去掉if ( ! hSwipe )中的判断即可](https://github.com/brutaldesign/swipebox)
 
 
 
 
-
-
-
-
 ### 弹窗插件
 [layer（一个可以让你想到即可做到的JavaScript弹窗（层）解决方案）](http://layer.layui.com/)
-
-
-
-
-
 
 
 
