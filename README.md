@@ -89,6 +89,12 @@
 
 [Image Cropper（功能强大，支持图片放大缩小，支持鼠标滚轮操作，支持图片旋转，支持触摸屏设备，支持canvas，并且支持跨浏览器使用）](http://www.jqcool.net/image-cropper.html)
 
+* Cropper 的参考案例
+
+* [jQuery图片剪裁插件Image Cropper](http://www.jqcool.net/image-cropper.html)
+
+* [使用jquery的imagecropper插件做用户头像上传](http://www.asheep.cn/skill/imagecropper.html)
+
 
 
 
