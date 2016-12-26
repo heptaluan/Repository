@@ -95,9 +95,13 @@
 
 * [使用jquery的imagecropper插件做用户头像上传](http://www.asheep.cn/skill/imagecropper.html)
 
-* * 遇到的几个坑
-
-* * [Exif.js 读取图像的元数据](http://code.ciaoca.com/javascript/exif-js/)
+  * 遇到的几个坑（IOS 拍照图片需要旋转）
+  
+  * [Exif.js 读取图像的元数据](http://code.ciaoca.com/javascript/exif-js/)
+  
+  * [利用exif.js解决ios手机上传竖拍照片旋转90度问题](http://blog.csdn.net/linlzk/article/details/48652635)
+  
+  * [image-orientation（图片旋转）](https://imququ.com/post/how-to-auto-rotate-photo-in-css.html)
 
 
 
