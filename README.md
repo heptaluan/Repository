@@ -95,6 +95,10 @@
 
 * [使用jquery的imagecropper插件做用户头像上传](http://www.asheep.cn/skill/imagecropper.html)
 
+* * 遇到的几个坑
+
+* * [Exif.js 读取图像的元数据](http://code.ciaoca.com/javascript/exif-js/)
+
 
 
 
