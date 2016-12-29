@@ -69,7 +69,9 @@
 
 
 ### 灯箱插件（lightBox）
-[swipebox（比较好用的一个，接口简单，可定制标题，切换/关闭按钮）如果移动端使用的话，默认是隐藏标题和切换按钮的，可以修改源码中的build方法，标题显示/隐藏需要双击，这个可以修改animBars方法，不想要上下拖动退出lightBox，去掉if ( ! hSwipe )中的判断即可](https://github.com/brutaldesign/swipebox)
+[swipebox（比较好用的一个，接口简单，可定制标题，切换/关闭按钮）](https://github.com/brutaldesign/swipebox)
+
+* [lisght-box(二次修改版本，更符合项目需求)](https://github.com/hanekaoru/light-box)
 
 
 
