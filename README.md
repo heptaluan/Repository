@@ -71,9 +71,12 @@
 
 
 
-### 弹窗插件
+### 弹出层插件
 
 [layer（一个可以让你想到即可做到的JavaScript弹窗（层）解决方案）](http://layer.layui.com/)
+
+[artDialog（ 经典的网页对话框组件）](http://aui.github.io/artDialog/doc/index.html)
+
 
 
 
